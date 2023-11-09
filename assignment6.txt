@@ -1,0 +1,31 @@
+<!-- What’s full form of SRS?
+Ans- software requirement specification.
+Why SRS is important in Manual Testing?
+Ans- clear understanding- SRS provides a clear understanding of the software requirements to the testing team, ensuring that they know what functionalities need to be tested.
+Basis for test cases-Test cases in manual testing are derived from the requirements specified in the SRS document. It serves as the basis for creating test scenarios and validating whether the software meets its intended goals.
+
+What is Use Cases?
+Ans- Use cases are a technique used in software engineering to capture and define interactions between users (actors) and the system. They describe the system's behaviour under various conditions as the system responds to a request from an external entity (user or system). Use cases are typically represented in a textual or diagrammatic format.
+Design 5 different Use Cases?
+Ans- 
+What are Non-functional Requirement in SRS?
+Ans- Non-functional requirements define system behaviour and constraints that are not related to specific functionalities. These requirements are about how the system performs certain functions rather than what functions it performs. Examples include performance, security, usability, scalability, and reliability requirements.
+Design an Use Case Diagram? Describe briefly.
+Ans- A use case diagram is a graphical representation of how users interact with a system. It shows the relationships between users (actors) and different use cases within the system. Actors are external entities that interact with the system, while use cases represent specific functionalities or features provided by the system.
+
+What is a Test Case?..
+ANS- A test case is a set of conditions or variables under which a tester will determine whether a system under test satisfies requirements or works correctly. It consists of detailed steps, data inputs, and expected outcomes, allowing testers to validate if the application behaves as expected under specific conditions.
+List out level of Test Cases? What are fields of a Test case Template?
+ANS-Test cases can be categorized into different levels based on their scope and purpose:
+Unit Testing-Testing individual components or modules in isolation.
+Integration Testing- verifying after integrating different modules.
+System Test cases- Testing the entire system as whole.
+Acceptance Test cases- Ensuring that the system meets the acceptance criteria specified by the stakeholders.
+
+Write test cases for Gmail Login? Give at least 5 examples?
+1.	Logout functionality.
+2.	Invalid login attempt
+3.	Invalid email template.
+4.	Incorrect password.
+5.	Remember me feature.
+ -->
