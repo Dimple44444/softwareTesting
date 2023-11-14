@@ -1,0 +1,11 @@
+Point wise summary of java features:
+1. Java is Open Source which means its available free of cost.
+2.Java is simple and so easy to learn
+3. Java is much in demand and ensures high salary
+4.Java has a large vibrant community
+5.Java has powerful development tools
+6.Java is platform independent.
+7.Compatibility- Java maintains backward compatibility, ensuring that older Java applications continue to run on newer versions of the Java Virtual Machine (JVM).
+8. Multithreading- Java supports the execution of multiple threads, allowing developers to create applications that can perform multiple tasks concurrently.
+9.Comes with a Lot of Built-in Functions- Java provides a bunch of ready-to-use functions, so you don't always have to create everything from scratch.
+10. Exception Handling- Java has a robust system for handling errors and exceptions. This helps in writing reliable and fault-tolerant code.
